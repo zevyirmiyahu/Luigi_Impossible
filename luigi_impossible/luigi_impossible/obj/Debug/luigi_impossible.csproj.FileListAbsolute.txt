@@ -1,0 +1,10 @@
+C:\Users\Zev Yirmiyahu\source\repos\luigi_impossible\luigi_impossible\bin\Debug\luigi_impossible.exe.config
+C:\Users\Zev Yirmiyahu\source\repos\luigi_impossible\luigi_impossible\bin\Debug\luigi_impossible.exe
+C:\Users\Zev Yirmiyahu\source\repos\luigi_impossible\luigi_impossible\bin\Debug\luigi_impossible.pdb
+C:\Users\Zev Yirmiyahu\source\repos\luigi_impossible\luigi_impossible\obj\Debug\luigi_impossible.csprojAssemblyReference.cache
+C:\Users\Zev Yirmiyahu\source\repos\luigi_impossible\luigi_impossible\obj\Debug\luigi_impossible.Properties.Resources.resources
+C:\Users\Zev Yirmiyahu\source\repos\luigi_impossible\luigi_impossible\obj\Debug\luigi_impossible.Window.resources
+C:\Users\Zev Yirmiyahu\source\repos\luigi_impossible\luigi_impossible\obj\Debug\luigi_impossible.csproj.GenerateResource.cache
+C:\Users\Zev Yirmiyahu\source\repos\luigi_impossible\luigi_impossible\obj\Debug\luigi_impossible.csproj.CoreCompileInputs.cache
+C:\Users\Zev Yirmiyahu\source\repos\luigi_impossible\luigi_impossible\obj\Debug\luigi_impossible.exe
+C:\Users\Zev Yirmiyahu\source\repos\luigi_impossible\luigi_impossible\obj\Debug\luigi_impossible.pdb
