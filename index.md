@@ -1,5 +1,7 @@
 # Luigi Impossible (in development)
 
+![Game Play](https://zevyirmiyahu.github.io/images/Luigi_Images/Luigi_Impossible_Game_Menu.jpg)
+
 ## Description: 
 A Luigi platformer game written in C#. The goal of the game is simple, make it to the end of the level. The twist is, it's almost 
 impossible. With hidden traps and enemies lurking to stop the player at every turn. 
@@ -13,7 +15,7 @@ drawn using the Wacom drawing pad and Clip Art Studio. I plan to complete to ful
 ## Images
 
 ### Game Play
-![Game Play](https://zevyirmiyahu.github.io/images/Luigi_Images/Luigi1.png)
+![Game Play](https://zevyirmiyahu.github.io/images/Luigi_Images/Luigi1.jpg)
 
 
 [<< Back](http://zevyirmiyahu.github.io)
